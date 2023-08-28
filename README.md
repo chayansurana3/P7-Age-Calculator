@@ -10,7 +10,7 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
-=
+
 ## Overview
 
 ### The challenge
@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/chayansurana3/P7-Age-Calculator.git)
+- Live Site URL: [Click Here](https://chayansurana3.github.io/P7-Age-Calculator/)
 
 ### Built with
 
