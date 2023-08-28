@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/P7-Age-Calculator/static/css/main.047af95b.css",
+    "main.js": "/P7-Age-Calculator/static/js/main.1b43dcf0.js",
+    "index.html": "/P7-Age-Calculator/index.html",
+    "main.047af95b.css.map": "/P7-Age-Calculator/static/css/main.047af95b.css.map",
+    "main.1b43dcf0.js.map": "/P7-Age-Calculator/static/js/main.1b43dcf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.047af95b.css",
+    "static/js/main.1b43dcf0.js"
+  ]
+}
